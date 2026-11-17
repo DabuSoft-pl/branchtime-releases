@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0-beta.23",
-  "pub_date": "2026-11-17T12:35:33Z",
+  "version": "0.1.0-beta.24",
+  "pub_date": "2026-11-17T13:24:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVUkxWWNXQkk0djVCcUdsQ2psSDI2M2J2STNxN0EyeW1nZGZ6d2o5ZnNTOW9FMWwxVXhiWGMwYzZRYnBheU9ZbXFhSlNXaTM4TWpsOS9RRzRxMXNaTlNkNzhTanRncUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE4ODk2CWZpbGU6QnJhbmNodGltZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAtYmV0YS4yMwptcCtCN0ZTL2w0c0NMcC9VUysvVzM2WTdzcHJmdlJRcHdIcis2WE1XdzNHdlUzeWowMUpVVFQ2S3htRUM1Z2VjNU9KVyszVnBvRjFvdHAwbHVtTElDdz09Cg==",
-      "url": "https://github.com/DabuSoft-pl/branchtime-releases/releases/download/v0.1.0-beta.23/Branchtime_0.1.0-beta.23_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVUkxWWNXQkk0dnk5YW5wVm1FVVVKS3RiSURINTdvanIrUm5xQldpenI1UFZOeWk3YWs5ai9vcWxGN1kxT01LeEJseXdSME9NdFdTZTZ2T1JzM0VZekRuSVVnVEsyclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIxODM5CWZpbGU6QnJhbmNodGltZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAtYmV0YS4yNApnTFhMUFJNYkE2SElaSnU3NkZMZ21IM2tnU055V2pJZGcvQi90NVhoZURqWlBXK2JEVm9oYnlNTUl4QXlmbVFVdmdFL3NSdEhvQzhSWGFCYXZkZHZDZz09Cg==",
+      "url": "https://github.com/DabuSoft-pl/branchtime-releases/releases/download/v0.1.0-beta.24/Branchtime_0.1.0-beta.24_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVUkxWWNXQkk0djVCcUdsQ2psSDI2M2J2STNxN0EyeW1nZGZ6d2o5ZnNTOW9FMWwxVXhiWGMwYzZRYnBheU9ZbXFhSlNXaTM4TWpsOS9RRzRxMXNaTlNkNzhTanRncUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE4ODk2CWZpbGU6QnJhbmNodGltZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAtYmV0YS4yMwptcCtCN0ZTL2w0c0NMcC9VUysvVzM2WTdzcHJmdlJRcHdIcis2WE1XdzNHdlUzeWowMUpVVFQ2S3htRUM1Z2VjNU9KVyszVnBvRjFvdHAwbHVtTElDdz09Cg==",
-      "url": "https://github.com/DabuSoft-pl/branchtime-releases/releases/download/v0.1.0-beta.23/Branchtime_0.1.0-beta.23_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVUkxWWNXQkk0dnk5YW5wVm1FVVVKS3RiSURINTdvanIrUm5xQldpenI1UFZOeWk3YWs5ai9vcWxGN1kxT01LeEJseXdSME9NdFdTZTZ2T1JzM0VZekRuSVVnVEsyclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTIxODM5CWZpbGU6QnJhbmNodGltZS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAtYmV0YS4yNApnTFhMUFJNYkE2SElaSnU3NkZMZ21IM2tnU055V2pJZGcvQi90NVhoZURqWlBXK2JEVm9oYnlNTUl4QXlmbVFVdmdFL3NSdEhvQzhSWGFCYXZkZHZDZz09Cg==",
+      "url": "https://github.com/DabuSoft-pl/branchtime-releases/releases/download/v0.1.0-beta.24/Branchtime_0.1.0-beta.24_universal.app.tar.gz"
     }
   }
 }
